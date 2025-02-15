@@ -1,0 +1,20 @@
+{
+    "name": "Raspberry Pi PhobOS",
+    "description": "Raspberry Pi platform for the PhobOS ostree distribution",
+    "maintainer": "matheus@castello.eng.br",
+    "revision": "main",
+    "repositories": [
+        {
+            "name": "Cookbook PhobOS",
+            "path": "cookbook-phobos",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-phobos.git",
+            "revision": "fd5ae41913db2ddfd53587a361f920fbfc1fe92c"
+        },
+        {
+            "name": "Cookbook Raspberry-Pi",
+            "path": "cookbook-rpi",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-rpi.git",
+            "revision": "3992d39a68b2f0203389d78db086da6b4836ed35"
+        }
+    ]
+}

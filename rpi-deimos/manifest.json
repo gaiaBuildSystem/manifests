@@ -1,0 +1,14 @@
+{
+    "name": "Raspberry Pi DeimOS",
+    "description": "Raspberry Pi platform for the DeimOS reference distribution",
+    "maintainer": "matheus@castello.eng.br",
+    "revision": "main",
+    "repositories": [
+        {
+            "name": "Cookbook rpi",
+            "path": "cookbook-rpi",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-rpi.git",
+            "revision": "3992d39a68b2f0203389d78db086da6b4836ed35"
+        }
+    ]
+}
