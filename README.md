@@ -19,6 +19,10 @@ Copy the desired `manifest.json` to the root of the work directory that you clon
 
 ## Manifests
 
+### 📁 `nxp-phobos`
+
+NXP platform for the PhobOS distribution. PhobOS is a ostree based Debian distribution, it have custom boot configuration and uses the `ostree` tool to manage the system updates.
+
 ### 📁 `rpi-deimos`
 
 Raspberry Pi platform for the DeimOS reference distribution. DeimOS is a simple Debian based distribution with default boot configuration and uses `apt` to manage the system updates.
