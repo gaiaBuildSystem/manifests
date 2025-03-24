@@ -1,0 +1,14 @@
+{
+    "name": "Torizon for WSL 2 Dev Env",
+    "description": "Torizon for WSL 2 Development Environment",
+    "maintainer": "matheus.castello@toradex.comd",
+    "revision": "main",
+    "repositories": [
+        {
+            "name": "Cookbook Torizon WSl",
+            "path": "cookbook-torizon-wsl",
+            "url": "https://github.com/torizon/cookbook-torizon-wsl.git",
+            "revision": "ee389a29c45d1933ad106cbc5f8da4752d51a847"
+        }
+    ]
+}
