@@ -30,3 +30,7 @@ Raspberry Pi platform for the DeimOS reference distribution. DeimOS is a simple 
 ### 📁 `rpi-phobos`
 
 Raspberry Pi platform for the PhobOS distribution. PhobOS is a ostree based Debian distribution, it have custom boot configuration and uses the `ostree` tool to manage the system updates.
+
+### 📁 `wsl-torizon`
+
+Create the Torizon for WSL 2 Development Environment.This was especially designed for have an already set up development environment for [Torizon](https://www.torizon.io/) and the [Torizon IDE Extension for Visual Studio Code](https://developer.toradex.com/torizon/application-development/ide-extension/) in an easy way.
