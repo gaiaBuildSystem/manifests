@@ -19,6 +19,10 @@ Copy the desired `manifest.json` to the root of the work directory that you clon
 
 ## Manifests
 
+### 📁 `dev-phobos`
+
+Development manifest for the PhobOS distribution. PhobOS is a ostree based Debian distribution, it have custom boot configuration and uses the `ostree` tool to manage the system updates. This manifest get all the layers supported by the PhobOS and is commonly used for development purposes.
+
 ### 📁 `nxp-phobos`
 
 NXP platform for the PhobOS distribution. PhobOS is a ostree based Debian distribution, it have custom boot configuration and uses the `ostree` tool to manage the system updates.

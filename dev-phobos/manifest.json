@@ -1,0 +1,26 @@
+{
+    "name": "Development PhobOS",
+    "description": "Development mannifest get all the layers for PhobOS ostree distribution",
+    "maintainer": "matheus@castello.eng.br",
+    "revision": "main",
+    "repositories": [
+        {
+            "name": "Cookbook PhobOS",
+            "path": "cookbook-phobos",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-phobos.git",
+            "revision": "main"
+        },
+        {
+            "name": "Cookbook Raspberry-Pi",
+            "path": "cookbook-rpi",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-rpi.git",
+            "revision": "main"
+        },
+        {
+            "name": "Cookbook NXP",
+            "path": "cookbook-nxp",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-nxp.git",
+            "revision": "main"
+        }
+    ]
+}
