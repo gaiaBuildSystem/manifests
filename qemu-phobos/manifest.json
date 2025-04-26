@@ -1,0 +1,14 @@
+{
+    "name": "QEMU PhobOS",
+    "description": "QEMU platform for the PhobOS ostree distribution",
+    "maintainer": "matheus@castello.eng.br",
+    "revision": "main",
+    "repositories": [
+        {
+            "name": "Cookbook PhobOS",
+            "path": "cookbook-phobos",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-phobos.git",
+            "revision": "dae24f468111e9bd2ba5c2e89fad2bba7fc94171"
+        }
+    ]
+}

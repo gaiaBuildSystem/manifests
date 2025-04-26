@@ -23,6 +23,10 @@ Copy the desired `manifest.json` to the root of the work directory that you clon
 
 NXP platform for the PhobOS distribution. PhobOS is a ostree based Debian distribution, it have custom boot configuration and uses the `ostree` tool to manage the system updates.
 
+### 📁 `qemu-phobos`
+
+QEMU platform for the PhobOS distribution. PhobOS is a ostree based Debian distribution, it have custom boot configuration and uses the `ostree` tool to manage the system updates. This manifest has the minimum required layers to run the PhobOS distribution in QEMU emulators.
+
 ### 📁 `rpi-deimos`
 
 Raspberry Pi platform for the DeimOS reference distribution. DeimOS is a simple Debian based distribution with default boot configuration and uses `apt` to manage the system updates.
