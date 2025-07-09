@@ -1,0 +1,14 @@
+{
+    "name": "Intel x86_64 DeimOS",
+    "description": "x86_64 platform for the DeimOS reference distribution",
+    "maintainer": "matheus@castello.eng.br",
+    "revision": "main",
+    "repositories": [
+        {
+            "name": "Cookbook Intel",
+            "path": "cookbook-intel",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-intel.git",
+            "revision": "91e56fe71e8f28f0390b434df0f79b45ba336770"
+        }
+    ]
+}

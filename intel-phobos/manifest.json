@@ -1,0 +1,20 @@
+{
+    "name": "Intel x86_64 PhobOS",
+    "description": "x86_64 platform for the PhobOS ostree distribution",
+    "maintainer": "matheus@castello.eng.br",
+    "revision": "main",
+    "repositories": [
+        {
+            "name": "Cookbook PhobOS",
+            "path": "cookbook-phobos",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-phobos.git",
+            "revision": "e759ffe416bc25157bc97c7c6fa0fc035f3ada84"
+        },
+        {
+            "name": "Cookbook Intel",
+            "path": "cookbook-intel",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-intel.git",
+            "revision": "91e56fe71e8f28f0390b434df0f79b45ba336770"
+        }
+    ]
+}
