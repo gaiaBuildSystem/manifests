@@ -21,6 +21,12 @@
             "path": "cookbook-nxp",
             "url": "https://github.com/gaiaBuildSystem/cookbook-nxp.git",
             "revision": "main"
+        },
+        {
+            "name": "Cookbook Intel",
+            "path": "cookbook-intel",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-intel.git",
+            "revision": "main"
         }
     ]
 }
