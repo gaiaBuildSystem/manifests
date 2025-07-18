@@ -8,13 +8,13 @@
             "name": "Cookbook PhobOS",
             "path": "cookbook-phobos",
             "url": "https://github.com/gaiaBuildSystem/cookbook-phobos.git",
-            "revision": "e759ffe416bc25157bc97c7c6fa0fc035f3ada84"
+            "revision": "1610567c8d8c4d1650e1969f776da00dfdb14c9f"
         },
         {
             "name": "Cookbook Raspberry-Pi",
             "path": "cookbook-rpi",
             "url": "https://github.com/gaiaBuildSystem/cookbook-rpi.git",
-            "revision": "ba411d087a9c4080fab8743b363102b36b86e26d"
+            "revision": "b490420bc3451e55cf355a03d93b8addb316c088"
         }
     ]
 }
