@@ -27,6 +27,10 @@ Development manifest for the PhobOS distribution. PhobOS is a ostree based Debia
 
 NXP platform for the PhobOS distribution. PhobOS is a ostree based Debian distribution, it have custom boot configuration and uses the `ostree` tool to manage the system updates.
 
+### 📁 `qcom-phobos`
+
+Qualcomm platform for the PhobOS distribution. PhobOS is a ostree based Debian distribution, it have custom boot configuration and uses the `ostree` tool to manage the system updates.
+
 ### 📁 `qemu-phobos`
 
 QEMU platform for the PhobOS distribution. PhobOS is a ostree based Debian distribution, it have custom boot configuration and uses the `ostree` tool to manage the system updates. This manifest has the minimum required layers to run the PhobOS distribution in QEMU emulators.

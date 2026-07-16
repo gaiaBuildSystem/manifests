@@ -8,13 +8,13 @@
             "name": "Cookbook PhobOS",
             "path": "cookbook-phobos",
             "url": "https://github.com/gaiaBuildSystem/cookbook-phobos.git",
-            "revision": "1610567c8d8c4d1650e1969f776da00dfdb14c9f"
+            "revision": "1ac16bbe10e9ff622c01eb3721ef6094a4250459"
         },
         {
             "name": "Cookbook NXP",
             "path": "cookbook-nxp",
             "url": "https://github.com/gaiaBuildSystem/cookbook-nxp.git",
-            "revision": "8efdc802b6f80d2f847ac19e6e6428a2c9944e9f"
+            "revision": "f6bdf941b3c72a48deec4a297c1f130fd6a1546d"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Synaptics PhobOS",
-    "description": "Synaptics platform for the PhobOS ostree distribution",
+    "name": "Qualcomm PhobOS",
+    "description": "Qualcomm platform for the PhobOS ostree distribution",
     "maintainer": "matheus@castello.eng.br",
     "revision": "main",
     "repositories": [
@@ -11,10 +11,10 @@
             "revision": "1ac16bbe10e9ff622c01eb3721ef6094a4250459"
         },
         {
-            "name": "Cookbook Synaptics",
-            "path": "cookbook-synaptics",
-            "url": "https://github.com/gaiaBuildSystem/cookbook-synaptics.git",
-            "revision": "1e98bd0558746ceda50f431172b1ba5aeff0e798"
+            "name": "Cookbook Qualcomm",
+            "path": "cookbook-qcom",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-qcom.git",
+            "revision": "d82c2b00926d3705e3aa4dec807b83bd414b79f1"
         }
     ]
 }

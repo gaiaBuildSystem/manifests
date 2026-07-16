@@ -1,6 +1,6 @@
 {
-    "name": "Raspberry Pi DeimOS",
-    "description": "Raspberry Pi platform for the DeimOS reference distribution",
+    "name": "Synaptics DeimOS",
+    "description": "Synaptics platform for the DeimOS reference distribution",
     "maintainer": "matheus@castello.eng.br",
     "revision": "main",
     "repositories": [
@@ -8,7 +8,7 @@
             "name": "Cookbook Synaptics",
             "path": "cookbook-synaptics",
             "url": "https://github.com/gaiaBuildSystem/cookbook-synaptics.git",
-            "revision": "688ac28663d9a7f20048110889b85396478574c4"
+            "revision": "1e98bd0558746ceda50f431172b1ba5aeff0e798"
         }
     ]
 }

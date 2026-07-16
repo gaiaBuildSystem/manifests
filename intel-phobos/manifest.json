@@ -8,13 +8,13 @@
             "name": "Cookbook PhobOS",
             "path": "cookbook-phobos",
             "url": "https://github.com/gaiaBuildSystem/cookbook-phobos.git",
-            "revision": "1610567c8d8c4d1650e1969f776da00dfdb14c9f"
+            "revision": "1ac16bbe10e9ff622c01eb3721ef6094a4250459"
         },
         {
             "name": "Cookbook Intel",
             "path": "cookbook-intel",
             "url": "https://github.com/gaiaBuildSystem/cookbook-intel.git",
-            "revision": "9e44a30fe7771691c483c7d3d42a4dbdbbac2935"
+            "revision": "bfda2318c9f620f79cbad93f03fb39b5754b1a76"
         }
     ]
 }

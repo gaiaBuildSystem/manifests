@@ -27,6 +27,18 @@
             "path": "cookbook-intel",
             "url": "https://github.com/gaiaBuildSystem/cookbook-intel.git",
             "revision": "main"
+        },
+        {
+            "name": "Cookbook Synaptics",
+            "path": "cookbook-synaptics",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-synaptics.git",
+            "revision": "main"
+        },
+        {
+            "name": "Cookbook Qualcomm",
+            "path": "cookbook-qcom",
+            "url": "https://github.com/gaiaBuildSystem/cookbook-qcom.git",
+            "revision": "main"
         }
     ]
 }
